@@ -24,10 +24,6 @@ Built with:
 
 ### Main Dashboard
 ![Main UI](assets/screenshot_main.png)
-
-### Analysis Results
-![Results UI](assets/screenshot_results.png)
-
 ---
 
 ## 🛠 Tech Stack
@@ -44,12 +40,12 @@ Built with:
 ---
 
 ## 📂 Project Structure
-resume-analyzer/
-├── backend/
-│ ├── analyze.py # LLM analysis logic
-│ ├── main.py # FastAPI server
-├── frontend/
-│ ├── streamlit.py # Streamlit UI
-├── assets/ # Screenshots, icons, etc.
-├── requirements.txt
-└── README.md
+#resume-analyzer/
+#├── backend/
+#│ ├── analyze.py # LLM analysis logic
+#│ ├── main.py # FastAPI server
+#├── frontend/
+#│ ├── streamlit.py # Streamlit UI
+#├── assets/ # Screenshots, icons, etc.
+#├── requirements.txt
+#└── README.md
