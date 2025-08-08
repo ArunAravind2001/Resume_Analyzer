@@ -40,12 +40,14 @@ Built with:
 ---
 
 ## 📂 Project Structure
-#resume-analyzer/
-#├── backend/
-#│ ├── analyze.py # LLM analysis logic
-#│ ├── main.py # FastAPI server
-#├── frontend/
-#│ ├── streamlit.py # Streamlit UI
-#├── assets/ # Screenshots, icons, etc.
-#├── requirements.txt
-#└── README.md
+```bash
+resume-analyzer/
+├── backend/
+│   ├── analyze.py        # LLM analysis logic (Ollama + Mistral model)
+│   ├── main.py           # FastAPI server
+├── frontend/
+│   ├── streamlit.py      # Streamlit UI
+├── assets/               
+├── requirements.txt      
+└── README.md             
+
