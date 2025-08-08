@@ -1,0 +1,15 @@
+# Backend
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+PyPDF2==3.0.1
+ollama==0.1.9
+
+# Frontend
+streamlit==1.35.0
+streamlit-lottie==0.0.5
+
+# HTTP Requests
+requests==2.31.0
+
+# Data Parsing
+pydantic==2.6.1
